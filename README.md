@@ -1,3 +1,6 @@
+Aman Srivastava
+2026B01011187
+CSE-02
 # Weather Trend Analysis of Delhi
 
 ## Objective
