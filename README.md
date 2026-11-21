@@ -33,6 +33,9 @@ To analyse temperature, humidity and other weather trends in Delhi using Python,
 - Humidity has a negative relationship with temperature: hot months are drier.
 - Summer shows the widest spread of temperatures, while the monsoon season is the most stable.
 
+Aman Srivastava
+2026B01011187
+CSE-02
 ## Files in this Repository
 - `Delhi_Weather_Analysis.ipynb`: the main Colab notebook
 - `DailyDelhiClimateTrain.csv`: original dataset
