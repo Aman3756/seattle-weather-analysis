@@ -19,7 +19,6 @@ To analyse temperature, humidity and other weather trends in Delhi using Python,
 ## Tools Used
 - Python
 - Pandas and NumPy (data handling)
-- Matplotlib and Seaborn (visualisation)
 - Microsoft Excel (initial exploration: filters, pivot table, line chart)
 - Google Colab and GitHub
 
